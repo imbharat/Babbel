@@ -16,9 +16,13 @@ _Provide a detailed description of the project here. Explain what the project do
 ## Steps to Run Tests
 
 1. ### For frontend (from parent folder):
-   #### a. Navigate to the frontend directory: cd frontend*
-   #### b. Run the frontend tests: npm test
-2. ### For backend (from parent folder):
-   #### a. Navigate to the backend directory: cd backend*
-   #### b. Run the backend tests: npm test*
+   #### a. Navigate to the frontend directory:
+   #####   cd frontend
+   #### b. Run the frontend tests:
+   #####   npm test
+3. ### For backend (from parent folder):
+   #### a. Navigate to the backend directory:
+   #####   cd backend
+   #### b. Run the backend tests:
+   #####   npm test
    
