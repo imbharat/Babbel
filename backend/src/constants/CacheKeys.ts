@@ -1,0 +1,1 @@
+export const EMAIL_FORMAT_MAP = "EMAIL_FORMAT_MAP";
